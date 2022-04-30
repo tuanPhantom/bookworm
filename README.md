@@ -8,7 +8,7 @@
     <li>Nguyễn Trung Kiên - 1901040106</li>
 </ul>
 
-## All Documents and Diagrams can be access through:
+## All Documents and Diagrams can be accessed through:
 https://drive.google.com/drive/folders/1cZ_Vu5LflOY9Loo_mdOG-AYs76yz0stj?usp=sharing
 
 ## E-Commerce System (Focus on Books only - Bookworm shop)
